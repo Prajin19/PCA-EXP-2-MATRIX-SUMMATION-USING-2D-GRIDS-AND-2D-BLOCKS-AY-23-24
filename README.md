@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
-## ENTER YOUR NAME : Prajin S
-## ENTER YOUR REGISTER NO: 212223230024
+## NAME : Prajin S
+## REGISTER NO: 212223230151
 ## DATE : 20-09-2025
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
